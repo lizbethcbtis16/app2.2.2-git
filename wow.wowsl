@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>20</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>wow</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/flat/</ImageTemplate>
+            <ImageTemplateName>Flat</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>H:/DOCUMENTOS/DAM/Segundo parcial/aplicaciones/app2/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>H:/DOCUMENTOS/DAM/Segundo parcial/aplicaciones/app2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Signika</TemplateFont>
+            <TemplateName>flat</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>H:/DOCUMENTOS/DAM/Segundo parcial/aplicaciones/app2/imagenes/c4.jpg</url>
+                <title>c4</title>
+                <filesize>19017</filesize>
+            </Image>
+            <Image>
+                <url>H:/DOCUMENTOS/DAM/Segundo parcial/aplicaciones/app2/imagenes/c2.jpg</url>
+                <title>c2</title>
+                <filesize>11677</filesize>
+            </Image>
+            <Image>
+                <url>H:/DOCUMENTOS/DAM/Segundo parcial/aplicaciones/app2/imagenes/c1.jpg</url>
+                <title>c1</title>
+                <filesize>14621</filesize>
+            </Image>
+            <Image>
+                <url>H:/DOCUMENTOS/DAM/Segundo parcial/aplicaciones/app2/imagenes/c3.jpg</url>
+                <title>c3</title>
+                <filesize>5922</filesize>
+            </Image>
+            <Image>
+                <url>H:/DOCUMENTOS/DAM/Segundo parcial/aplicaciones/app2/imagenes/c5.jpg</url>
+                <title>c5</title>
+                <filesize>5200</filesize>
+            </Image>
+            <Image>
+                <url>H:/DOCUMENTOS/DAM/Segundo parcial/aplicaciones/app2/imagenes/c6.jpg</url>
+                <title>c6</title>
+                <filesize>9239</filesize>
+            </Image>
+            <Image>
+                <url>H:/DOCUMENTOS/DAM/Segundo parcial/aplicaciones/app2/imagenes/c7.jpg</url>
+                <title>c7</title>
+                <filesize>6859</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
